@@ -8,5 +8,3 @@ comparing the performance of three methodologies namely Ordinary Kriging, Regres
 ### 2) To identify if the fluctuation of Groundwater in terms of Mean Height Water Level (MHW) variable has an influence on MD30 using Regression Kriging. 
 ### 3) To determine the correlation between MD30 and MHW variable using CO-Kriging
 
-## Notice:
-  the report in this page is not the final version. But it shows the introduction, methdology and the results. The final version of the report will be uploaded later. 
